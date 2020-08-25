@@ -1,10 +1,10 @@
 title: Jack Stephan # your name (or website title) here
 logo: "/images/self_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
-  <br>Cartography student, mapping a way to a sustainable future<br>
-  Second description
-  <br>If a picture is really worth a thousand words, then I imagine a map is worth many more. Many of the world's problems start with the question where? Well, as a soon-to-be graduated cartographer, I am here to help with the answers. My path to the geospatial industry began with my interest in solving environmental and sustainability issues. I graduated with a bachelor's degree in biosystems engineering from Michigan State University and set off to work on a Fulbright grant in Mumbai, India. During my research I kept asking, 'where?' and 'why there?'. This led me to my current studies and my future goal of applying quantitative problem solving at the intersection of geospatial technologies and sustainability.<br>
+  Cartography student, mapping a way to a sustainable future
+  <br><br>
+If a picture is really worth a thousand words, then I imagine a map is worth many more. Many of the world's problems start with the question where? Well, as a soon-to-be graduated cartographer, I am here to help with the answers. My path to the geospatial industry began with my interest in solving environmental and sustainability issues. I graduated with a bachelor's degree in biosystems engineering from Michigan State University and set off to work on a Fulbright grant in Mumbai, India. During my research I kept asking, 'where?' and 'why there?'. This led me to my current studies and my future goal of applying quantitative problem solving at the intersection of geospatial technologies and sustainability.
+  <br><br>
   <a href="https://www.linkedin.com/in/jack-stephan-a169a7137/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
